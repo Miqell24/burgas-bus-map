@@ -1,0 +1,1279 @@
+{
+  "generatedAt": "2026-09-01T07:14:18.690Z",
+  "bbox": [
+    27.359229,
+    42.439436,
+    27.526208,
+    42.629374
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses & trolleybus",
+      "color": "#0059a9"
+    }
+  ],
+  "lines": [
+    {
+      "line": "3",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Банево, Околчица",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 24,
+          "lengthKm": 19.06,
+          "stats": {
+            "observations": 24,
+            "matched": 24,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.248922702002816,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Автогара Запад",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 19.18,
+          "stats": {
+            "observations": 571,
+            "matched": 571,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8981208487669747,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "6",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Рудник, Яна Лъскова",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 24,
+          "lengthKm": 19.17,
+          "stats": {
+            "observations": 835,
+            "matched": 835,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5230092345843202,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Автогара Запад",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 21,
+          "lengthKm": 19.55,
+          "stats": {
+            "observations": 757,
+            "matched": 757,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2422722444630785,
+            "roundaboutSegs": 66,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Д. Езерово, Ж.П. Гара",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 23,
+          "lengthKm": 12.94,
+          "stats": {
+            "observations": 479,
+            "matched": 479,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8951180923852136,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Д. Езерово, Ж.П. Гара",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 31,
+          "lengthKm": 16.99,
+          "stats": {
+            "observations": 756,
+            "matched": 756,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5178462059432267,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Автогара Запад",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 28,
+          "lengthKm": 16.05,
+          "stats": {
+            "observations": 706,
+            "matched": 706,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4358177089048396,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Автогара Запад",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 12.22,
+          "stats": {
+            "observations": 412,
+            "matched": 412,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.431645751743763,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7А",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Лозово, Роза",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 9.66,
+          "stats": {
+            "observations": 344,
+            "matched": 344,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.429034946997889,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Автогара Запад",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 10.04,
+          "stats": {
+            "observations": 333,
+            "matched": 333,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.091022155987882,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7А1",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Лозово, Роза",
+          "headsign": "Лозово, Роза",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 11.35,
+          "stats": {
+            "observations": 514,
+            "matched": 514,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8716778037490454,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7А2",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Автогара Запад",
+          "headsign": "Автогара Запад",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 11.74,
+          "stats": {
+            "observations": 512,
+            "matched": 512,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8334300874677556,
+            "roundaboutSegs": 70,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "8",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Г. Езерово, Площада",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 14.69,
+          "stats": {
+            "observations": 584,
+            "matched": 584,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.251903174210777,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Автогара Запад",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 14.56,
+          "stats": {
+            "observations": 674,
+            "matched": 674,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.464138602613672,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 30,
+          "lengthKm": 17.34,
+          "stats": {
+            "observations": 797,
+            "matched": 797,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.894185522173726,
+            "roundaboutSegs": 41,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 26,
+          "lengthKm": 16.95,
+          "stats": {
+            "observations": 797,
+            "matched": 797,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0826514579207394,
+            "roundaboutSegs": 41,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 29,
+          "lengthKm": 17.03,
+          "stats": {
+            "observations": 727,
+            "matched": 727,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.865308505635681,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 25,
+          "lengthKm": 15.79,
+          "stats": {
+            "observations": 640,
+            "matched": 640,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9069685743391973,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9А",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Върли бряг, Площада",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 10,
+          "lengthKm": 6.12,
+          "stats": {
+            "observations": 290,
+            "matched": 290,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6103845898103606,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "0",
+          "headsign": "Върли бряг, Площада",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 12,
+          "lengthKm": 6.12,
+          "stats": {
+            "observations": 307,
+            "matched": 307,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5947952937527914,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 12,
+          "lengthKm": 6,
+          "stats": {
+            "observations": 283,
+            "matched": 283,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.693899211328323,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9Б",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Шилото",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 7.35,
+          "stats": {
+            "observations": 367,
+            "matched": 367,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4929429052008547,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 13,
+          "lengthKm": 7.2,
+          "stats": {
+            "observations": 327,
+            "matched": 327,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5691851513474215,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "11",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Терминал Славейков",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 33,
+          "lengthKm": 16.54,
+          "stats": {
+            "observations": 661,
+            "matched": 661,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.33402271712602,
+            "roundaboutSegs": 79,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "12",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Терминал Славейков",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 27,
+          "lengthKm": 15.79,
+          "stats": {
+            "observations": 743,
+            "matched": 743,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.228988961074616,
+            "roundaboutSegs": 42,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "15",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Сарафово, Ради Николов",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 16.18,
+          "stats": {
+            "observations": 682,
+            "matched": 682,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5180659369601008,
+            "roundaboutSegs": 102,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Юг",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 14.94,
+          "stats": {
+            "observations": 642,
+            "matched": 642,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4776146543003466,
+            "roundaboutSegs": 83,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "15А",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Сарафово, Ради Николов",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 15.27,
+          "stats": {
+            "observations": 599,
+            "matched": 599,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.331586838474565,
+            "roundaboutSegs": 72,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Юг",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 15.62,
+          "stats": {
+            "observations": 538,
+            "matched": 538,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.191914925182362,
+            "roundaboutSegs": 89,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "17",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Крайморие",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 11,
+          "lengthKm": 11.2,
+          "stats": {
+            "observations": 407,
+            "matched": 407,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.548799664123929,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Юг",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 9,
+          "lengthKm": 11.03,
+          "stats": {
+            "observations": 440,
+            "matched": 440,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7176463422481727,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "17А",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Крайморие",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 13.15,
+          "stats": {
+            "observations": 514,
+            "matched": 514,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1975417743151677,
+            "roundaboutSegs": 1,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 13.22,
+          "stats": {
+            "observations": 512,
+            "matched": 512,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.272027256754194,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "81",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Г. Езерово, Площада",
+          "headsign": "Г. Езерово, Площада",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 25,
+          "lengthKm": 15.25,
+          "stats": {
+            "observations": 716,
+            "matched": 716,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.198798184170487,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "82",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Автогара Запад",
+          "headsign": "Автогара Запад",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 26,
+          "lengthKm": 16.63,
+          "stats": {
+            "observations": 733,
+            "matched": 733,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.349831211672784,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "92",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Терминал Славейков",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 32,
+          "lengthKm": 23.74,
+          "stats": {
+            "observations": 1118,
+            "matched": 1118,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.900454702440956,
+            "roundaboutSegs": 97,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "Б1",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Терминал Изгрев",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 14.96,
+          "stats": {
+            "observations": 615,
+            "matched": 615,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7249290748397548,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 15.08,
+          "stats": {
+            "observations": 711,
+            "matched": 711,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6886572216989193,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "Б2",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 15.4,
+          "stats": {
+            "observations": 677,
+            "matched": 677,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9879313821844138,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 15.04,
+          "stats": {
+            "observations": 696,
+            "matched": 696,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1007534205276848,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "Б9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Захари Стоянов",
+          "headsign": "Захари Стоянов",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 13.62,
+          "stats": {
+            "observations": 607,
+            "matched": 607,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.825366447735599,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "Б11",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Терминал Изгрев",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 27,
+          "lengthKm": 14.7,
+          "stats": {
+            "observations": 664,
+            "matched": 664,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9604072385154425,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 27,
+          "lengthKm": 19.7,
+          "stats": {
+            "observations": 927,
+            "matched": 927,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7834039966462454,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "Б12",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 25,
+          "lengthKm": 14.56,
+          "stats": {
+            "observations": 692,
+            "matched": 692,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.856276121978836,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 26,
+          "lengthKm": 14.55,
+          "stats": {
+            "observations": 639,
+            "matched": 639,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8265688022498052,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "Бо",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 13.91,
+          "stats": {
+            "observations": 639,
+            "matched": 639,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5792649962826837,
+            "roundaboutSegs": 63,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Захари Стоянов",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 13.84,
+          "stats": {
+            "observations": 587,
+            "matched": 587,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7500283071448088,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "Н",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 16.09,
+          "stats": {
+            "observations": 747,
+            "matched": 747,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.811083573252498,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Терминал Славейков",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 15.52,
+          "stats": {
+            "observations": 760,
+            "matched": 760,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8255363296922205,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "Т1",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "Терминал Меден рудник",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 35,
+          "lengthKm": 19.85,
+          "stats": {
+            "observations": 946,
+            "matched": 946,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.035095833260073,
+            "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    }
+  ]
+}
