@@ -37,6 +37,34 @@
   ],
   "lines": [
     {
+      "line": "Т1",
+      "mode": "bus",
+      "color": "#149a3f",
+      "dirs": [
+        {
+          "dir": "Терминал Меден рудник",
+          "headsign": "Терминал Меден рудник",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 35,
+          "lengthKm": 19.85,
+          "stats": {
+            "observations": 946,
+            "matched": 946,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.035095833260073,
+            "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
       "line": "3",
       "mode": "bus",
       "color": "#0059a9",
@@ -1241,34 +1269,6 @@
             "rawMeters": 0,
             "meanError": 1.8255363296922205,
             "roundaboutSegs": 50,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "Т1",
-      "mode": "bus",
-      "color": "#149a3f",
-      "dirs": [
-        {
-          "dir": "Терминал Меден рудник",
-          "headsign": "Терминал Меден рудник",
-          "variants": 1,
-          "tripCount": 1,
-          "stops": 35,
-          "lengthKm": 19.85,
-          "stats": {
-            "observations": 946,
-            "matched": 946,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.035095833260073,
-            "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
           }
