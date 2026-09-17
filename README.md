@@ -69,3 +69,7 @@ npm run build      # GTFS + OSM -> data/out/*.geojson
 npm run lines      # the per-line "Lines" view
 npm run serve      # http://localhost:8176
 ```
+
+## 17.09.2026 — requested fixes
+
+- **Б lines first.** Burgas' quasi-BRT Б lines open the bus lists (`firstRank`). Applied to the published build with `transit-maps/tools/lists.mjs`.

@@ -49,9 +49,11 @@ const keyParts = (s) => {
   const m = /^(\D*)(\d*)(.*)$/.exec(s);
   return [m[1], m[2] ? Number(m[2]) : Infinity, m[3]];
 };
+// Б lines — Burgas' quasi-BRT — open the bus lists (user 17.09.2026)
+const firstRank = (k) => (/^Б/.test(k) ? 0 : 1);
 const numSort = (a, b) => {
   const A = keyParts(a), B = keyParts(b);
-  return A[0].localeCompare(B[0]) || (A[1] - B[1]) || A[2].localeCompare(B[2]);
+  return firstRank(a) - firstRank(b) || A[0].localeCompare(B[0]) || (A[1] - B[1]) || A[2].localeCompare(B[2]);
 };
 function round6(v) { return Math.round(v * 1e6) / 1e6; }
 // dark variant for feed-supplied line colors (badge rims / terminus fills)
